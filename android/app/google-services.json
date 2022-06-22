@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "127290045016",
+    "project_id": "morkov-5a0fd",
+    "storage_bucket": "morkov-5a0fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127290045016:android:1d2316b44b6b969375502d",
+        "android_client_info": {
+          "package_name": "com.example.shop_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127290045016-3mcvnheh48jo4di0o6k2c480vvv870s5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7XpWteD5js88JKqmh0i143CM32HIVcpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127290045016-3mcvnheh48jo4di0o6k2c480vvv870s5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
